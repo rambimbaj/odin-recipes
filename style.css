@@ -1,0 +1,43 @@
+/* index */
+#index {
+    background-color:rgb(255, 248, 241);
+    text-align:center;
+    font-family:Montserrat, sans-serif;
+    font-weight:400;
+    font-size:17px;
+}
+#index .subjectlist{
+    font-weight:bold;
+    background-color:bisque;
+}
+#index .list {
+    list-style-type:none;
+}
+#index button {
+    background-color:white;
+    border-color:bisque;
+    color:black;
+    font-size:16px;
+    margin-bottom:5px;
+}
+#index .img {
+    margin:auto;
+    padding-top:15px;
+}
+/* feast */
+#feast {
+    background-color:rgb(229, 252, 229);
+    font-family:Montserrat, sans-serif;
+}
+#feast .list {
+    text-align:center;
+}
+.title {
+    background-color:rgb(192, 246, 196);
+}
+#feast button {
+    background-color:white;
+    border-color:bisque;
+    color:black;
+    font-size:16px;
+}
