@@ -32,7 +32,7 @@
 #feast .list {
     text-align:center;
 }
-.title {
+#feast .title {
     background-color:rgb(192, 246, 196);
 }
 #feast button {
@@ -40,4 +40,38 @@
     border-color:bisque;
     color:black;
     font-size:16px;
+}
+/* cake */
+#cake {
+    background-color:rgb(200, 232, 252);
+    font-family:Montserrat, sans-serif;
+}
+#cake button {
+    background-color:white;
+    border-color:bisque;
+    color:black;
+    font-size:16px;
+}
+#cake .list {
+    text-align:center;
+}
+#cake .title {
+    background-color:rgb(158, 215, 250);
+}
+/* chops */
+#chops {
+    background-color:rgb(245, 232, 255);
+    font-family:Montserrat, sans-serif;
+}
+#chops button {
+    background-color:white;
+    border-color:bisque;
+    color:black;
+    font-size:16px;
+}
+#chops .list {
+    text-align:center;
+}
+#chops .title {
+    background-color:rgb(236, 209, 255);
 }
