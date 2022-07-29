@@ -1,2 +1,2 @@
 # odin-recipes
-HTML Basics
+HTML and CSS Basics.
